@@ -1,1 +1,1 @@
-sinal.txt
+ATUALIZACAO=0
